@@ -1,0 +1,23 @@
+{
+  "name": "igti-react-investments-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/json-server --watch investments.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidssousa/igti-react-investments-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidssousa/igti-react-investments-backend/issues"
+  },
+  "homepage": "https://github.com/davidssousa/igti-react-investments-backend#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
